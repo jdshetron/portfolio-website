@@ -276,8 +276,8 @@ section { padding: 96px 0; }
 }
 
 .avatar-badge {
-  width: 220px;
-  height: 220px;
+  width: 270px;
+  height: 270px;
   border-radius: 50%;
   margin: 0 auto;
   background: linear-gradient(135deg, var(--color-panel-dark), var(--color-panel-dark-light));
@@ -303,7 +303,7 @@ section { padding: 96px 0; }
   .hero .container { grid-template-columns: 1fr; text-align: center; }
   .hero-lede { margin-left: auto; margin-right: auto; }
   .hero-ctas { justify-content: center; }
-  .avatar-badge { order: -1; width: 160px; height: 160px; font-size: 2.4rem; }
+  .avatar-badge { order: -1; width: 200px; height: 200px; font-size: 2.4rem; }
 }
 
 /* ==========================================================================
